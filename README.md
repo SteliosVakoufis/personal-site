@@ -1,2 +1,2 @@
 # personal-site
-This site is hosted with Github Pages: https://zeenus.github.io/personal-site/
+This repository is hosted on Github Pages: https://zeenus.github.io/personal-site/
