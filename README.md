@@ -1,2 +1,2 @@
 # personal-site
-This site is hosted with on <a"https://zeenus.github.io/personal-site/"> Github Pages </a>
+This site is hosted with Github Pages: https://zeenus.github.io/personal-site/
